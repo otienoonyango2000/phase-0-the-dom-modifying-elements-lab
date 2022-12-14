@@ -13,7 +13,7 @@
 //   const li = document.createElement("li");
 //   li.textContent = (i + 1).toString();
 //   ul.append(li);
-// }
+// /}
 
 // element.append(ul);
 // body.append(element)
